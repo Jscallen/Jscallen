@@ -7,3 +7,6 @@ Currently, I'm studying at Simplon Lyon, where I'm diving into Python, SQL, NoSQ
 With the experiences I've gathered and those I'm yet to explore, I'm actively seeking an internship in the Data/IA field, whether as a Data scientist, analyst, or engineer.
 
 Feel free to reach out to me to discuss collaborations, exciting projects, or simply to exchange ideas! 🚀
+
+[LinkedIn](https://www.linkedin.com/in/jean-s%C3%A9bastien-callen-0575462b3/)
+
